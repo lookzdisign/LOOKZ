@@ -8,14 +8,6 @@ const projects = [
         "views": "N/A"
     },
     {
-        "id": 2,
-        "title": "Avant",
-        "image": "images/gallery/avant.png",
-        "alt": "Avant Thumbnail",
-        "link": "https://youtube.com",
-        "views": "N/A"
-    },
-    {
         "id": 3,
         "title": "Apres",
         "image": "images/gallery/apres.png",
