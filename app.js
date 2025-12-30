@@ -7,22 +7,6 @@ const projects = [
         "link": "https://youtube.com",
         "views": "N/A"
     },
-      {
-        "id": 2,
-        "title": "avant",
-        "image": "images/gallery/avant.png",
-        "alt": "avant Thumbnail",
-        "link": "https://youtube.com",
-        "views": "N/A"
-    },
-    {
-        "id": 3,
-        "title": "Apres",
-        "image": "images/gallery/apres.png",
-        "alt": "Apres Thumbnail",
-        "link": "https://youtube.com",
-        "views": "N/A"
-    },
     {
         "id": 4,
         "title": "Teen Titan Go",
