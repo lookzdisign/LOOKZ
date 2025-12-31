@@ -10,7 +10,15 @@ const projects = [
      {
         "id": 2,
         "title": "jojo",
-        "image": "images/gallery/jojo part 1-3",
+        "image": "images/gallery/jojo.png",
+        "alt": "jojo Thumbnail",
+        "link": "https://youtube.com",
+        "views": "N/A"
+    },
+    {
+        "id": 3,
+        "title": "ippo",
+        "image": "images/gallery/ippo.png",
         "alt": "jojo Thumbnail",
         "link": "https://youtube.com",
         "views": "N/A"
@@ -65,6 +73,30 @@ const projects = [
     },
     {
         "id": 10,
+        "title": "hollow knight",
+        "image": "images/gallery/hollow knight corrigé.png",
+        "alt": "jojo Thumbnail",
+        "link": "https://youtube.com",
+        "views": "N/A"
+    },
+    {
+        "id": 11,
+        "title": "mario galaxy",
+        "image": "images/gallery/mario galaxy sans sauté v2.png",
+        "alt": "jojo Thumbnail",
+        "link": "https://youtube.com",
+        "views": "N/A"
+    },
+    {
+        "id": 12,
+        "title": "mastu",
+        "image": "images/gallery/minia mastu.png",
+        "alt": "jojo Thumbnail",
+        "link": "https://youtube.com",
+        "views": "N/A"
+    },
+    {
+        "id": 13,
         "title": "Img 2582",
         "image": "images/gallery/IMG_2582.png",
         "alt": "Img 2582 Thumbnail",
